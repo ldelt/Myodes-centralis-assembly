@@ -1,0 +1,23 @@
+Assembly	ragtag.scaffold
+# contigs (>= 0 bp)	6237
+# contigs (>= 1000 bp)	6046
+# contigs (>= 5000 bp)	409
+# contigs (>= 10000 bp)	310
+# contigs (>= 25000 bp)	248
+# contigs (>= 50000 bp)	222
+Total length (>= 0 bp)	213610518
+Total length (>= 1000 bp)	213482155
+Total length (>= 5000 bp)	200160562
+Total length (>= 10000 bp)	199477652
+Total length (>= 25000 bp)	198507950
+Total length (>= 50000 bp)	197589326
+# contigs	6229
+Largest contig	6137311
+Total length	213606929
+GC (%)	42.77
+N50	1617441
+N90	163533
+auN	2000122.5
+L50	38
+L90	168
+# N's per 100 kbp	3612.34

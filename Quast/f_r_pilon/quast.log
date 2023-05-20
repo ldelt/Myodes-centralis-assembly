@@ -1,0 +1,61 @@
+/home/bgerda/mambaforge-pypy3/envs/quast/bin/quast -t 10 -o pilon_results/quast_pilon_r pilon_results/pilon_1.fasta
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-4.18.0-348.7.1.el8_5.x86_64-x86_64-with-glibc2.28 (linux_64)
+  Python version: 3.10.11
+  CPUs number: 96
+
+Started: 2023-05-12 03:33:13
+
+Logging to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/quast.log
+
+CWD: /home/bgerda/guppy_SUP
+Main parameters: 
+  MODE: default, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  pilon_results/pilon_1.fasta ==> pilon_1
+
+2023-05-12 03:33:24
+Running Basic statistics processor...
+  Contig files: 
+    pilon_1
+  Calculating N50 and L50...
+    pilon_1, N50 = 2299, L50 = 36919, auN = 2455.1, Total length = 193697430, GC % = 42.61, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/basic_stats/GC_content_plot.pdf
+  Drawing pilon_1 GC content plot...
+    saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/basic_stats/pilon_1_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-12 03:33:32
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2023-05-12 03:33:35
+RESULTS:
+  Text versions of total report are saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/report.html
+  PDF version (tables and plots) is saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/report.pdf
+  Icarus (contig browser) is saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/icarus.html
+  Log is saved to /home/bgerda/guppy_SUP/pilon_results/quast_pilon_r/quast.log
+
+Finished: 2023-05-12 03:33:35
+Elapsed time: 0:00:22.235982
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
