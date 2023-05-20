@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The lack of a suitable reference is one of the key problems faced by phylogenetic studies. Existing reference assemblies are often evolutionarily too far from the studied organism, which complicates the study of the phylogenetics of the latter. To study the hybridization of the *Arvicolinae* subfamily, the Laboratory of Evolutionary Genomics and Paleogenomics of ZIN RAN decided to develop its own reference of *Myodes centralis*, based on Oxford Nanopore and Ilumina RNASeq sequencing data.
+The lack of a suitable reference is one of the key problems faced by phylogenetic studies. Existing reference assemblies are often evolutionarily too far from the studied organism, which complicates the study of the phylogenetics of the latter. To study the hybridization of the *Arvicolinae* subfamily, the Laboratory of Evolutionary Genomics and Paleogenomics of ZIN RAN decided to assemble its own reference of *Myodes centralis*, based on Oxford Nanopore and Ilumina RNASeq sequencing data.
 
 ## Goals and objectives
 **Goal: Perform hybrid de novo assembly of the Myodes centralis genome using data from Oxford Nanopore Illumina RNAseq**
