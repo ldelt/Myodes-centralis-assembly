@@ -67,7 +67,7 @@ cp *_{start..end}.fast5 ../../guppy_results/skip_XX/raw_data
 
 - Next, we download the packages from the server. We upload packages to the GoogleDrive drive, since it will be mounted to the Google Colab server. Packages are loaded one at a time due to the limited amount of disk space in GoogleDrive.
 ```bash
-scp -i BIkeys -P 8122 -r bgerda@84.204.46.23:/home/bgerda/guppy_results/skip_XX  GoogleDrive/Guppy/
+scp -i BIkeys -P 8122 -r login@server:/home/bgerda/guppy_results/skip_XX  GoogleDrive/Guppy/
 ```
 
 ##### 1.2 Basecalling in Google Colab
