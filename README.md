@@ -23,7 +23,7 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - The results of Nanopolish's work and their further processing will be included in the final report.
 - Comparison of the assembly at various stages is presented in the table below
 
-![Alt text](Quast_Summary_Table.png]?raw=true)
+![Alt text](Quast_Summary_Table.png?raw=true)
 
 
 ## Available data
