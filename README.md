@@ -28,6 +28,21 @@ Objectives:
 
 ![Alt text](Experiment_scheme.png?raw=true)
 
+#### 3. List of used software
+- [ONT Guppy Basecaller](https://id.customers.nanoporetech.com/app/nanoporetech-customers_myaccount_1/exk2kkmfwpBAaT3WI697/sso/saml?RelayState=https://community.nanoporetech.com/downloads) Version 6.4.2+97a7f06
+- [Flye assembler](https://github.com/fenderglass/Flye) Version 2.9.2-b1786
+- [BWA](https://github.com/lh3/bwa) Version 0.7.17-r1188
+- [samtools](https://github.com/samtools/samtools) Version 1.17 (using htslib 1.17)
+- [minimap2](https://github.com/lh3/minimap2) Version 2.26-r1175
+- [biopet-validatefastq](https://github.com/biopet/validatefastq) Version 0.1.1
+- [Biopython](https://biopython.org/) Version 1.81 (python 3.11)
+- [Racon](https://github.com/isovic/racon) Version 1.5.0
+- [Nanopolish](https://github.com/jts/nanopolish) Version 0.14.0
+- [Medaka](https://github.com/nanoporetech/medaka) Version 1.7.2
+- [Pilon](https://github.com/broadinstitute/pilon) Version 1.24
+- [RagTag]() Version 2.1.0
+- [Quast](https://github.com/ablab/quast) Version 5.2.0
+
 ## Results ans conclusion
 - A hybrid assembly of Myodes centralis was carried out. 
 - The total build length was 214Mb. Average coverage - 7. N50 for continues - 2382. N50 for scaffolds - 1.6Mb. 
