@@ -9,6 +9,7 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 #### 1. Available data
 - Raw Myodes centralis genome sequencing data in fast5 format obtained using the ONT MinION sequencer. Flow cell is FLO-MIN106D. Library kit is SQK-PSK004. 
 - Illumina RNASeq sequencing results for Myodes centralis
+- [*Myodes glareolus*](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_902806735.1/) genome assembly from NCBI RefSeq
 
 #### 2. Methods
 - The methods are described in detail below in the Workflow chapter. 
@@ -24,13 +25,6 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - Comparison of the assembly at various stages is presented in the table below
 
 ![Alt text](Quast_Summary_Table.png?raw=true)
-
-
-## Available data
-
-- Raw Myodes centralis genome sequencing data in fast5 format obtained using the ONT MinION sequencer. Flow cell is FLO-MIN106D. Library kit is SQK-PSK004. 
-- Illumina RNASeq sequencing results for Myodes centralis
-- [*Myodes glareolus*](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_902806735.1/) genome assembly from NCBI RefSeq
 
 ## Workflow
 
