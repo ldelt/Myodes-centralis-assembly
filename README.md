@@ -42,6 +42,7 @@ Objectives:
 - [Pilon](https://github.com/broadinstitute/pilon) Version 1.24
 - [RagTag]() Version 2.1.0
 - [Quast](https://github.com/ablab/quast) Version 5.2.0
+- [Google Colab](https://colab.research.google.com/)
 
 ## Results ans conclusion
 - A hybrid assembly of Myodes centralis was carried out. 
