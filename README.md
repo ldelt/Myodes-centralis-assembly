@@ -54,7 +54,7 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - A comparison of the final assemblies at Busco is available in Busco Summary Table.
 - Comparison of the assembly at various stages in Quast is presented in the Quast Summary Table below
 
-![Quast Summary Table](Quast_Summary_Table.png?raw=true title=true)
+![Quast Summary Table](Quast_Summary_Table.png?raw=true "Title")
 
 ## Workflow
 
