@@ -53,8 +53,10 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - The best results have been achieved using a combination of Nanopolish, Pilon and RagTag.
 - A comparison of the final assemblies at Busco is available in Busco Summary Table.
 - Comparison of the assembly at various stages in Quast is presented in the Quast Summary Table below
+
 <h1 align="center">Quast Summary Table</h1>
-![Quast Summary Table](Quast_Summary_Table.png?raw=true "Title")
+
+![Quast Summary Table](Quast_Summary_Table.png?raw=true)
 
 ## Workflow
 
