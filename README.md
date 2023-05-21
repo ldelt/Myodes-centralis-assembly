@@ -279,4 +279,14 @@ pilon --genome results_racon_v2/assembly_racon.fasta --fix bases --changes --fra
 ragtag.py scaffold GCF_902806735.1_Bank_vole1_10x_genomic.fna pilon_results/pilon_1.fasta -o ragtag_results -t 40
 ```
 
-- Assembly quality assessment was carried out in Quast and presented in a summary table
+- Scaffolding quality assessment was carried out in Quast and presented in a summary table
+- We alco carried out final quality assessment of all scaffolding results using Busco against glires_odb10 Linage
+```bash
+busco -i ragtag_results_pf/ragtag.scaffold.fasta -l glires_odb10 -o busco_results_racon -m genome -f -c 30
+```
+	-i - path to assemmbly; 
+	-l - linage;
+	-o - folder to save results;
+	-m - mode.
+
+- Results of Busco are available in Busco Summary Table
