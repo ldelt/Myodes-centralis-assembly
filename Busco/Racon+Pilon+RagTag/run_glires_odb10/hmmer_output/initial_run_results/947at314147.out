@@ -1,0 +1,16 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965308.1_RagTag:747648-749260 -            264 947at314147          -           2225   1.1e-05   19.0   0.0   1   2     5e-07   0.00035   14.0   0.0  2112  2182    14    80     5    88 0.84 -
+NW_025965308.1_RagTag:747648-749260 -            264 947at314147          -           2225   1.1e-05   19.0   0.0   2   2    0.0011      0.76    3.0   0.0  2060  2085   111   136   105   169 0.78 -
+NW_025965075.1_RagTag:65339-58346   -            349 947at314147          -           2225     0.003   11.0   0.1   1   1   5.3e-06    0.0038   10.6   0.1   359   392   299   332   254   348 0.74 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/947at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/hmmer_output/initial_run_results/947at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/947at314147.hmm /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:05:51 2023
+# [ok]

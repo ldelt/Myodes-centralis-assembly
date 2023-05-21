@@ -1,0 +1,4 @@
+contig_47482_pilon	MetaEuk	gene	28	396	167	+	.	Target_ID=43386at314147;TCS_ID=43386at314147|contig_47482_pilon|+|27
+contig_47482_pilon	MetaEuk	mRNA	28	396	167	+	.	Target_ID=43386at314147;TCS_ID=43386at314147|contig_47482_pilon|+|27_mRNA;Parent=43386at314147|contig_47482_pilon|+|27
+contig_47482_pilon	MetaEuk	exon	28	396	167	+	.	Target_ID=43386at314147;TCS_ID=43386at314147|contig_47482_pilon|+|27_exon_0;Parent=43386at314147|contig_47482_pilon|+|27_mRNA
+contig_47482_pilon	MetaEuk	CDS	28	396	167	+	.	Target_ID=43386at314147;TCS_ID=43386at314147|contig_47482_pilon|+|27_CDS_0;Parent=43386at314147|contig_47482_pilon|+|27_exon_0

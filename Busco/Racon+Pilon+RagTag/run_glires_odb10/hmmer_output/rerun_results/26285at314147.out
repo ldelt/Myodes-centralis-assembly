@@ -1,0 +1,16 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_26930_pilon:2-1099             -            366 26285at314147        -            382  7.2e-152  502.2   9.7   1   1  5.1e-152  2.4e-149  494.0   9.7    83   382     1   349     1   349 0.90 -
+NW_025965175.1_RagTag:1136615-1135324 -            430 26285at314147        -            382  1.7e-102  339.7  15.1   1   1  1.9e-103  8.6e-101  334.1  15.1     5   378     3   419     1   423 0.86 -
+NW_025965230.1_RagTag:2-574           -            191 26285at314147        -            382   1.1e-64  215.2   0.7   1   1   2.8e-67   1.3e-64  215.0   0.7    47   215     1   170     1   190 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/26285at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/hmmer_output/rerun_results/26285at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/26285at314147.hmm /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:30:03 2023
+# [ok]

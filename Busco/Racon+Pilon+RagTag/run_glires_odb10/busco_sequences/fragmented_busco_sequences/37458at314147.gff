@@ -1,0 +1,4 @@
+contig_77310_pilon	MetaEuk	gene	1570	1740	114	+	.	Target_ID=37458at314147;TCS_ID=37458at314147|contig_77310_pilon|+|1569
+contig_77310_pilon	MetaEuk	mRNA	1570	1740	114	+	.	Target_ID=37458at314147;TCS_ID=37458at314147|contig_77310_pilon|+|1569_mRNA;Parent=37458at314147|contig_77310_pilon|+|1569
+contig_77310_pilon	MetaEuk	exon	1570	1740	114	+	.	Target_ID=37458at314147;TCS_ID=37458at314147|contig_77310_pilon|+|1569_exon_0;Parent=37458at314147|contig_77310_pilon|+|1569_mRNA
+contig_77310_pilon	MetaEuk	CDS	1570	1740	114	+	.	Target_ID=37458at314147;TCS_ID=37458at314147|contig_77310_pilon|+|1569_CDS_0;Parent=37458at314147|contig_77310_pilon|+|1569_exon_0

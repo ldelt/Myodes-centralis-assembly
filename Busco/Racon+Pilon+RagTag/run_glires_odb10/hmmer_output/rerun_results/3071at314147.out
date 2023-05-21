@@ -1,0 +1,27 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965039.1_RagTag:226766-224869 -            386 3071at314147         -            983   3.8e-21   71.0   0.1   1   3   1.3e-22   1.5e-20   69.0   0.1   208   302     6   100     1   112 0.88 -
+NW_025965039.1_RagTag:226766-224869 -            386 3071at314147         -            983   3.8e-21   71.0   0.1   2   3      0.54        62   -2.6   0.0   345   387   115   157   100   161 0.85 -
+NW_025965039.1_RagTag:226766-224869 -            386 3071at314147         -            983   3.8e-21   71.0   0.1   3   3      0.54        63   -2.6   0.0   431   463   289   321   287   324 0.90 -
+NW_025965279.1_RagTag:78582-79082   -            167 3071at314147         -            983   1.6e-19   65.5   0.0   1   1   1.7e-21     2e-19   65.3   0.0   238   361     1   124     1   129 0.89 -
+contig_34309_pilon:592-2            -            197 3071at314147         -            983   2.8e-16   54.8   0.0   1   1   2.9e-18   3.4e-16   54.6   0.0   137   330     6   194     4   197 0.83 -
+NW_025965499.1_RagTag:3791-2706     -            362 3071at314147         -            983   3.4e-16   54.6   0.1   1   1     4e-18   4.6e-16   54.1   0.1   138   342    16   215    10   235 0.83 -
+NW_025965099.1_RagTag:14363-15274   -            304 3071at314147         -            983   6.3e-15   50.4   0.1   1   1   7.3e-17   8.4e-15   49.9   0.1   139   337    27   220    13   230 0.86 -
+contig_34501_pilon:2271-1573        -            233 3071at314147         -            983   1.2e-09   32.9   0.0   1   1   1.2e-11   1.4e-09   32.6   0.0   242   337    26   122     3   140 0.83 -
+contig_37224_pilon:1693-2424        -            244 3071at314147         -            983   1.8e-09   32.3   0.1   1   1   1.8e-11   2.1e-09   32.1   0.1   141   348     1   202     1   215 0.80 -
+NW_025965233.1_RagTag:114859-113462 -            466 3071at314147         -            983   5.9e-09   30.6   0.1   1   1   7.9e-11   9.2e-09   30.0   0.1   141   330     9   192     3   201 0.83 -
+contig_66008_pilon:1779-2636        -            286 3071at314147         -            983   5.8e-08   27.3   0.0   1   1   6.5e-10   7.5e-08   26.9   0.0   166   336    12   176     5   189 0.74 -
+contig_31429_pilon:272-1088         -            267 3071at314147         -            983   4.2e-06   21.1   0.1   1   1   1.1e-06   0.00012   16.3   0.1   163   332    21   173     1   203 0.65 -
+NW_025965256.1_RagTag:238893-234961 -            199 3071at314147         -            983    0.0022   12.2   0.0   1   1   1.9e-05    0.0023   12.1   0.0   260   295    75   110     4   117 0.91 -
+NW_025965301.1_RagTag:70135-68389   -            338 3071at314147         -            983    0.0045   11.1   0.0   1   1   3.9e-05    0.0045   11.1   0.0   280   341   170   235   149   287 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/3071at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/hmmer_output/rerun_results/3071at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/3071at314147.hmm /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:29:49 2023
+# [ok]

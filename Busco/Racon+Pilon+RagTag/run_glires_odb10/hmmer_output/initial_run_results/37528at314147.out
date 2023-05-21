@@ -1,0 +1,18 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965317.1_RagTag:431410-428855 -            771 37528at314147        -            338   1.2e-31  106.5   2.6   1   5   6.1e-11   8.6e-08   28.1   0.1    17   110     4    93     2   102 0.92 -
+NW_025965317.1_RagTag:431410-428855 -            771 37528at314147        -            338   1.2e-31  106.5   2.6   2   5   3.6e-12     5e-09   32.1   0.0     8    95   146   231   139   241 0.90 -
+NW_025965317.1_RagTag:431410-428855 -            771 37528at314147        -            338   1.2e-31  106.5   2.6   3   5     0.064        91   -1.6   0.0   194   218   283   307   258   325 0.85 -
+NW_025965317.1_RagTag:431410-428855 -            771 37528at314147        -            338   1.2e-31  106.5   2.6   4   5   6.6e-09   9.4e-06   21.4   0.0    18    75   339   396   329   416 0.89 -
+NW_025965317.1_RagTag:431410-428855 -            771 37528at314147        -            338   1.2e-31  106.5   2.6   5   5   1.4e-08     2e-05   20.2   0.0    18    74   697   753   688   767 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/37528at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/hmmer_output/initial_run_results/37528at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/37528at314147.hmm /home/bgerda/guppy_SUP/busco_results_racon/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:05:48 2023
+# [ok]

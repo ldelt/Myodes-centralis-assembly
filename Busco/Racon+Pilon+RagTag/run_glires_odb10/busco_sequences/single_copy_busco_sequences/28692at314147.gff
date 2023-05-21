@@ -1,0 +1,4 @@
+contig_33464_pilon	MetaEuk	gene	1091	1972	548	-	.	Target_ID=28692at314147_0;TCS_ID=28692at314147_0|contig_33464_pilon|-|1090
+contig_33464_pilon	MetaEuk	mRNA	1091	1972	548	-	.	Target_ID=28692at314147_0;TCS_ID=28692at314147_0|contig_33464_pilon|-|1090_mRNA;Parent=28692at314147_0|contig_33464_pilon|-|1090
+contig_33464_pilon	MetaEuk	exon	1091	1972	548	-	.	Target_ID=28692at314147_0;TCS_ID=28692at314147_0|contig_33464_pilon|-|1090_exon_0;Parent=28692at314147_0|contig_33464_pilon|-|1090_mRNA
+contig_33464_pilon	MetaEuk	CDS	1091	1972	548	-	.	Target_ID=28692at314147_0;TCS_ID=28692at314147_0|contig_33464_pilon|-|1090_CDS_0;Parent=28692at314147_0|contig_33464_pilon|-|1090_exon_0

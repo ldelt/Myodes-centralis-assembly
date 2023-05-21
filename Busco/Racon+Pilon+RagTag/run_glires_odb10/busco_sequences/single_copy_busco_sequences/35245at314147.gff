@@ -1,0 +1,8 @@
+contig_27429_pilon	MetaEuk	gene	907	1563	331	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906
+contig_27429_pilon	MetaEuk	mRNA	907	1563	331	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_mRNA;Parent=35245at314147|contig_27429_pilon|-|906
+contig_27429_pilon	MetaEuk	exon	1327	1563	157	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_exon_0;Parent=35245at314147|contig_27429_pilon|-|906_mRNA
+contig_27429_pilon	MetaEuk	CDS	1327	1563	157	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_CDS_0;Parent=35245at314147|contig_27429_pilon|-|906_exon_0
+contig_27429_pilon	MetaEuk	exon	1174	1263	65	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_exon_1;Parent=35245at314147|contig_27429_pilon|-|906_mRNA
+contig_27429_pilon	MetaEuk	CDS	1174	1257	65	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_CDS_1;Parent=35245at314147|contig_27429_pilon|-|906_exon_1
+contig_27429_pilon	MetaEuk	exon	907	1071	109	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_exon_2;Parent=35245at314147|contig_27429_pilon|-|906_mRNA
+contig_27429_pilon	MetaEuk	CDS	907	1071	109	-	.	Target_ID=35245at314147;TCS_ID=35245at314147|contig_27429_pilon|-|906_CDS_2;Parent=35245at314147|contig_27429_pilon|-|906_exon_2

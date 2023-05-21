@@ -1,0 +1,4 @@
+contig_67100_pilon	MetaEuk	gene	868	1332	246	-	.	Target_ID=41104at314147;TCS_ID=41104at314147|contig_67100_pilon|-|867
+contig_67100_pilon	MetaEuk	mRNA	868	1332	246	-	.	Target_ID=41104at314147;TCS_ID=41104at314147|contig_67100_pilon|-|867_mRNA;Parent=41104at314147|contig_67100_pilon|-|867
+contig_67100_pilon	MetaEuk	exon	868	1332	246	-	.	Target_ID=41104at314147;TCS_ID=41104at314147|contig_67100_pilon|-|867_exon_0;Parent=41104at314147|contig_67100_pilon|-|867_mRNA
+contig_67100_pilon	MetaEuk	CDS	868	1332	246	-	.	Target_ID=41104at314147;TCS_ID=41104at314147|contig_67100_pilon|-|867_CDS_0;Parent=41104at314147|contig_67100_pilon|-|867_exon_0

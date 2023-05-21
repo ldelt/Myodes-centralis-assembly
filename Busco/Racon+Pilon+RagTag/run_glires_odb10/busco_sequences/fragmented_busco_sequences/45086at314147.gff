@@ -1,0 +1,6 @@
+contig_30942_pilon	MetaEuk	gene	1918	3375	118	+	.	Target_ID=45086at314147;TCS_ID=45086at314147|contig_30942_pilon|+|1917
+contig_30942_pilon	MetaEuk	mRNA	1918	3375	118	+	.	Target_ID=45086at314147;TCS_ID=45086at314147|contig_30942_pilon|+|1917_mRNA;Parent=45086at314147|contig_30942_pilon|+|1917
+contig_30942_pilon	MetaEuk	exon	1918	1992	45	+	.	Target_ID=45086at314147;TCS_ID=45086at314147|contig_30942_pilon|+|1917_exon_0;Parent=45086at314147|contig_30942_pilon|+|1917_mRNA
+contig_30942_pilon	MetaEuk	CDS	1918	1992	45	+	.	Target_ID=45086at314147;TCS_ID=45086at314147|contig_30942_pilon|+|1917_CDS_0;Parent=45086at314147|contig_30942_pilon|+|1917_exon_0
+contig_30942_pilon	MetaEuk	exon	3262	3375	72	+	.	Target_ID=45086at314147;TCS_ID=45086at314147|contig_30942_pilon|+|1917_exon_1;Parent=45086at314147|contig_30942_pilon|+|1917_mRNA
+contig_30942_pilon	MetaEuk	CDS	3262	3375	72	+	.	Target_ID=45086at314147;TCS_ID=45086at314147|contig_30942_pilon|+|1917_CDS_1;Parent=45086at314147|contig_30942_pilon|+|1917_exon_1
