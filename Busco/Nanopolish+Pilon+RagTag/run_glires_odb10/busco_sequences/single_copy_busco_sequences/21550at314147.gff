@@ -1,0 +1,6 @@
+contig_74745_pilon	MetaEuk	gene	286	1612	825	+	.	Target_ID=21550at314147;TCS_ID=21550at314147|contig_74745_pilon|+|285
+contig_74745_pilon	MetaEuk	mRNA	286	1612	825	+	.	Target_ID=21550at314147;TCS_ID=21550at314147|contig_74745_pilon|+|285_mRNA;Parent=21550at314147|contig_74745_pilon|+|285
+contig_74745_pilon	MetaEuk	exon	286	933	433	+	.	Target_ID=21550at314147;TCS_ID=21550at314147|contig_74745_pilon|+|285_exon_0;Parent=21550at314147|contig_74745_pilon|+|285_mRNA
+contig_74745_pilon	MetaEuk	CDS	286	933	433	+	.	Target_ID=21550at314147;TCS_ID=21550at314147|contig_74745_pilon|+|285_CDS_0;Parent=21550at314147|contig_74745_pilon|+|285_exon_0
+contig_74745_pilon	MetaEuk	exon	935	1612	391	+	.	Target_ID=21550at314147;TCS_ID=21550at314147|contig_74745_pilon|+|285_exon_1;Parent=21550at314147|contig_74745_pilon|+|285_mRNA
+contig_74745_pilon	MetaEuk	CDS	935	1612	391	+	.	Target_ID=21550at314147;TCS_ID=21550at314147|contig_74745_pilon|+|285_CDS_1;Parent=21550at314147|contig_74745_pilon|+|285_exon_1

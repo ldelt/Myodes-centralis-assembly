@@ -1,0 +1,16 @@
+contig_18180_pilon	MetaEuk	gene	34	7802	1286	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33
+contig_18180_pilon	MetaEuk	mRNA	34	7802	1286	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_mRNA;Parent=9750at314147|contig_18180_pilon|+|33
+contig_18180_pilon	MetaEuk	exon	34	423	254	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_0;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	34	423	254	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_0;Parent=9750at314147|contig_18180_pilon|+|33_exon_0
+contig_18180_pilon	MetaEuk	exon	2288	2416	91	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_1;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	2288	2416	91	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_1;Parent=9750at314147|contig_18180_pilon|+|33_exon_1
+contig_18180_pilon	MetaEuk	exon	3801	3896	59	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_2;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	3804	3896	59	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_2;Parent=9750at314147|contig_18180_pilon|+|33_exon_2
+contig_18180_pilon	MetaEuk	exon	4448	4579	85	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_3;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	4448	4579	85	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_3;Parent=9750at314147|contig_18180_pilon|+|33_exon_3
+contig_18180_pilon	MetaEuk	exon	5186	5314	78	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_4;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	5186	5314	78	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_4;Parent=9750at314147|contig_18180_pilon|+|33_exon_4
+contig_18180_pilon	MetaEuk	exon	6131	6217	53	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_5;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	6131	6217	53	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_5;Parent=9750at314147|contig_18180_pilon|+|33_exon_5
+contig_18180_pilon	MetaEuk	exon	6312	7802	841	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_exon_6;Parent=9750at314147|contig_18180_pilon|+|33_mRNA
+contig_18180_pilon	MetaEuk	CDS	6312	7802	841	+	.	Target_ID=9750at314147;TCS_ID=9750at314147|contig_18180_pilon|+|33_CDS_6;Parent=9750at314147|contig_18180_pilon|+|33_exon_6

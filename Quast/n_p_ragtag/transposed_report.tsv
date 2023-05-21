@@ -1,0 +1,2 @@
+Assembly	# contigs (>= 0 bp)	# contigs (>= 1000 bp)	# contigs (>= 5000 bp)	# contigs (>= 10000 bp)	# contigs (>= 25000 bp)	# contigs (>= 50000 bp)	Total length (>= 0 bp)	Total length (>= 1000 bp)	Total length (>= 5000 bp)	Total length (>= 10000 bp)	Total length (>= 25000 bp)	Total length (>= 50000 bp)	# contigs	Largest contig	Total length	GC (%)	N50	N90	auN	L50	L90	# N's per 100 kbp
+ragtag.scaffold	6182	5988	411	311	250	222	213558363	213428063	200248300	199560293	198636266	197687129	6173	6133828	213554296	42.74	1614133	166091	2003075.9	38	167	3615.80

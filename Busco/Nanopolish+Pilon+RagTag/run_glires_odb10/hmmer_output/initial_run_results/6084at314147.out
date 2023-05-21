@@ -1,0 +1,16 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965317.1_RagTag:5073578-5074888 -            437 6084at314147         -            803   1.5e-20   68.8   0.0   1   1   4.1e-23   1.9e-20   68.5   0.0   129   265   114   251    78   350 0.90 -
+NW_025965190.1_RagTag:122555-120468   -            202 6084at314147         -            803   0.00027   15.0   0.9   1   1   7.3e-07   0.00034   14.7   0.9   178   225   148   195   121   201 0.86 -
+NW_025965175.1_RagTag:620939-621454   -            172 6084at314147         -            803    0.0016   12.5   0.7   1   1   4.1e-06     0.002   12.2   0.7   127   208    87   169    77   172 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/6084at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/hmmer_output/initial_run_results/6084at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/6084at314147.hmm /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 15:02:45 2023
+# [ok]

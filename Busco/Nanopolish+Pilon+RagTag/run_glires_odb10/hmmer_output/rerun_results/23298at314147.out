@@ -1,0 +1,20 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965275.1_RagTag:72545-151978  -            283 23298at314147        -            354   1.8e-60  201.4   8.0   1   2     2e-58   7.1e-56  186.3   1.5    32   231    18   221     4   227 0.89 -
+NW_025965275.1_RagTag:72545-151978  -            283 23298at314147        -            354   1.8e-60  201.4   8.0   2   2   1.2e-07   4.2e-05   19.3   0.9   258   303   226   271   222   277 0.93 -
+NW_025965275.1_RagTag:93352-151939  -            297 23298at314147        -            354   1.1e-51  172.4  14.1   1   2   9.5e-51   3.3e-48  161.0   7.6    42   232    47   246    19   252 0.90 -
+NW_025965275.1_RagTag:93352-151939  -            297 23298at314147        -            354   1.1e-51  172.4  14.1   2   2   1.5e-06   0.00055   15.6   0.6   260   302   255   297   246   297 0.90 -
+NW_025965266.1_RagTag:68634-57100   -            374 23298at314147        -            354   3.1e-10   36.1   9.0   1   2     0.042        15    1.0   0.0    44    68   121   145   115   164 0.82 -
+NW_025965266.1_RagTag:68634-57100   -            374 23298at314147        -            354   3.1e-10   36.1   9.0   2   2     2e-11   7.2e-09   31.6   9.6   141   330   172   360   154   372 0.71 -
+NW_025965137.1_RagTag:705088-704294 -            265 23298at314147        -            354       2.3    3.7  13.7   1   1     0.091        32   -0.1  13.7    47   307     3   263     1   265 0.57 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/23298at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/hmmer_output/rerun_results/23298at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/23298at314147.hmm /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 15:29:19 2023
+# [ok]

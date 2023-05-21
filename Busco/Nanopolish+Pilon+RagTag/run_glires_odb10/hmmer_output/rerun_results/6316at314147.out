@@ -1,0 +1,19 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965314.1_RagTag:2004116-2007059 -            259 6316at314147         -            742     2e-10   35.7   2.7   1   2   2.3e-06   0.00079   13.9   0.1   475   534    17    75     6    99 0.86 -
+NW_025965314.1_RagTag:2004116-2007059 -            259 6316at314147         -            742     2e-10   35.7   2.7   2   2   7.2e-09   2.6e-06   22.1   0.3   474   532   157   215   143   227 0.88 -
+NW_025965084.1_RagTag:76267-79479     -            117 6316at314147         -            742   4.3e-07   24.7   0.1   1   1   8.2e-09   2.9e-06   22.0   0.0   372   415    13    56     4    74 0.85 -
+NW_025965318.1_RagTag:919384-924781   -            276 6316at314147         -            742   9.7e-05   16.9   6.2   1   1     4e-07   0.00014   16.4   6.2   476   596   158   275   151   276 0.79 -
+NW_025965419.1_RagTag:225369-224842   -            176 6316at314147         -            742      0.64    4.3   4.8   1   2     0.025       8.8    0.5   0.5   234   258    67    91    54    99 0.83 -
+NW_025965419.1_RagTag:225369-224842   -            176 6316at314147         -            742      0.64    4.3   4.8   2   2    0.0016      0.57    4.5   0.2   238   266   126   154   117   168 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/6316at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/hmmer_output/rerun_results/6316at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/6316at314147.hmm /home/bgerda/guppy_SUP/busco_results/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 15:29:17 2023
+# [ok]
