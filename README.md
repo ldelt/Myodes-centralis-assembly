@@ -164,6 +164,7 @@ flye --nano-hq resulted_pass_wd.fastq --out-dir ./flye_results --threads 40
 	--threads - number of CPU threads
 
 - Basic information about assembly results
+
 | Total length | Contigs | N50  | Largest con. | Scaffolds | Mean coverage |
 |--------------|---------|------|--------------|-----------|---------------|
 | 205909836    | 83399   | 2382 | 13717        | 0         | 7             |
