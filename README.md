@@ -48,15 +48,19 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 ## Results ans conclusion
 - A hybrid assembly of Myodes centralis was carried out. 
 - The total build length was 213.6Mb. Average coverage is 7. Contigs N50 is 2381. Scaffolds N50 is 1.6Mb. 
-- Results of quality assessment at Busco: C:1.9%\[S:1.8%,D:0.1%\],F:1.1%,M:97.0%,n:13798.
-- The polishing in the Racon didn't seem to improve the assembly quality.
-- The best results have been achieved using a combination of Nanopolish, Pilon and RagTag.
+- Results of quality assessment at Busco: C:2.0%[S:1.9%,D:0.1%],F:1.1%,M:96.9%,n:13798.
+- The polishing in the Racon and Nanopolish didn't seem to improve the assembly quality. 
+- The best results have been achieved using a draft flye assembly polished in Pilon and scaffolded in RagTag.
 - A comparison of the final assemblies at Busco is available in Busco Summary Table.
 - Comparison of the assembly at various stages in Quast is presented in the Quast Summary Table below
 
 <h1 align="center">Quast Summary Table</h1>
 
 ![Quast Summary Table](Quast_Summary_Table.png?raw=true)
+
+<h1 align="center">Busco Summary Table</h1>
+
+![Busco Summary Table](Busco_Summary_Table.png?raw=true)
 
 ## Workflow
 
@@ -230,7 +234,7 @@ python3 nanopolish/scripts/nanopolish_makerange.py flye_results/assembly.fa | pa
 nanopolish vcf2fasta -g flye_results/assembly.fasta nanopolish_results/polished.*.vcf > nanopolish_results/nanopolish_assembly.fasta
 ```
 
-- The polishing results are presented in a summary table. The quality of the assembly has not decreased, but the quality of the consensus has probably increased.
+- The polishing results are presented in a summary table. The quality of the assembly has not decreased.
 
 ##### 3.3 Polishing using Medaka
 
