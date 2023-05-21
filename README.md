@@ -48,7 +48,6 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - A hybrid assembly of Myodes centralis was carried out. 
 - The total build length was 214Mb. Average coverage - 7. N50 for continues - 2382. N50 for scaffolds - 1.6Mb. 
 - The polishing in the Racon didn't seem to improve the build quality at first glance. 
-- The results of Nanopolish's work and their further processing will be included in the final report.
 - Comparison of the assembly at various stages is presented in the table below
 
 ![Alt text](Quast_Summary_Table.png?raw=true)
