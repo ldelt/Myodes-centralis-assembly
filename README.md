@@ -40,7 +40,7 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - [Nanopolish](https://github.com/jts/nanopolish) Version 0.14.0
 - [Medaka](https://github.com/nanoporetech/medaka) Version 1.7.2
 - [Pilon](https://github.com/broadinstitute/pilon) Version 1.24
-- [RagTag]() Version 2.1.0
+- [RagTag](https://github.com/malonge/RagTag) Version 2.1.0
 - [Quast](https://github.com/ablab/quast) Version 5.2.0
 - [Busco](https://github.com/WenchaoLin/BUSCO-Mod) Version 5.4.7
 - [Google Colab](https://colab.research.google.com/)
