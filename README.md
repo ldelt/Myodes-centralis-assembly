@@ -42,15 +42,19 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 - [Pilon](https://github.com/broadinstitute/pilon) Version 1.24
 - [RagTag]() Version 2.1.0
 - [Quast](https://github.com/ablab/quast) Version 5.2.0
+- [Busco](https://github.com/WenchaoLin/BUSCO-Mod) Version 5.4.7
 - [Google Colab](https://colab.research.google.com/)
 
 ## Results ans conclusion
 - A hybrid assembly of Myodes centralis was carried out. 
-- The total build length was 214Mb. Average coverage - 7. N50 for continues - 2382. N50 for scaffolds - 1.6Mb. 
-- The polishing in the Racon didn't seem to improve the build quality at first glance. 
-- Comparison of the assembly at various stages is presented in the table below
+- The total build length was 213.6Mb. Average coverage is 7. Contigs N50 is 2381. Scaffolds N50 is 1.6Mb. 
+- Results of quaslity assessment with Busco: C:1.9%\[S:1.8%,D:0.1%\],F:1.1%,M:97.0%,n:13798.
+- The polishing in the Racon didn't seem to improve the assembly quality.
+- The best results have been achieved using a combination of Nanopolish, Pilon and RagTag.
+- A comparison of the final assemblies at Busco is available in Busco Summary Table.
+- Comparison of the assembly at various stages in Quast is presented in the Quast Summary Table below
 
-![Alt text](Quast_Summary_Table.png?raw=true)
+![Quast Summary Table](Quast_Summary_Table.png?raw=true title=true)
 
 ## Workflow
 
