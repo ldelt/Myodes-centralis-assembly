@@ -1,0 +1,16 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_13085_pilon:902-109            -            219 3097at314147         -           1089   4.1e-07   24.5   0.8   1   2   4.8e-09   3.4e-06   21.5   0.2   412   517    40   146    28   150 0.81 -
+contig_13085_pilon:902-109            -            219 3097at314147         -           1089   4.1e-07   24.5   0.8   2   2    0.0049       3.4    1.6   0.0   339   384   164   211   156   217 0.77 -
+NW_025965287.1_RagTag:1529457-1528498 -            259 3097at314147         -           1089   1.9e-05   19.0   0.4   1   1   4.4e-08   3.1e-05   18.3   0.4   339   480    76   224    59   254 0.72 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/3097at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/hmmer_output/rerun_results/3097at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/3097at314147.hmm /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:47:41 2023
+# [ok]

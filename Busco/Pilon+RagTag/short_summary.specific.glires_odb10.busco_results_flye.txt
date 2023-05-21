@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.7 
+# The lineage dataset is: glires_odb10 (Creation date: 2021-02-19, number of genomes: 24, number of BUSCOs: 13798)
+# Summarized benchmarking in BUSCO notation for file /home/bgerda/guppy_SUP/ragtag_results_pf/ragtag.scaffold.fasta
+# BUSCO was run in mode: euk_genome_met
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:2.0%[S:1.9%,D:0.1%],F:1.1%,M:96.9%,n:13798	   
+	266	Complete BUSCOs (C)			   
+	256	Complete and single-copy BUSCOs (S)	   
+	10	Complete and duplicated BUSCOs (D)	   
+	155	Fragmented BUSCOs (F)			   
+	13377	Missing BUSCOs (M)			   
+	13798	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	6237	Number of scaffolds
+	83399	Number of contigs
+	213610518	Total length
+	3.612%	Percent gaps
+	1 MB	Scaffold N50
+	2 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	metaeuk: 6.a5d39d9
+	busco: 5.4.7

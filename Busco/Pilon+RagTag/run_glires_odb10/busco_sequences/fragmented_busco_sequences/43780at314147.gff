@@ -1,0 +1,4 @@
+contig_15510_pilon	MetaEuk	gene	1166	1432	161	+	.	Target_ID=43780at314147;TCS_ID=43780at314147|contig_15510_pilon|+|1165
+contig_15510_pilon	MetaEuk	mRNA	1166	1432	161	+	.	Target_ID=43780at314147;TCS_ID=43780at314147|contig_15510_pilon|+|1165_mRNA;Parent=43780at314147|contig_15510_pilon|+|1165
+contig_15510_pilon	MetaEuk	exon	1166	1432	161	+	.	Target_ID=43780at314147;TCS_ID=43780at314147|contig_15510_pilon|+|1165_exon_0;Parent=43780at314147|contig_15510_pilon|+|1165_mRNA
+contig_15510_pilon	MetaEuk	CDS	1166	1432	161	+	.	Target_ID=43780at314147;TCS_ID=43780at314147|contig_15510_pilon|+|1165_CDS_0;Parent=43780at314147|contig_15510_pilon|+|1165_exon_0

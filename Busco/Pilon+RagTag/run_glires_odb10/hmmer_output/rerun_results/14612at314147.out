@@ -1,0 +1,16 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965108.1_RagTag:772738-777900 -           1058 14612at314147        -            590   1.4e-18   63.2   0.1   1   2   6.5e-17   4.6e-14   48.2   0.0   278   393    56   175    53   186 0.86 -
+NW_025965108.1_RagTag:772738-777900 -           1058 14612at314147        -            590   1.4e-18   63.2   0.1   2   2   4.5e-06    0.0032   12.4   0.0   486   545   347   411   335   416 0.72 -
+NW_025965251.1_RagTag:718843-716864 -            384 14612at314147        -            590   5.7e-06   21.5   0.0   1   1   1.2e-08   8.5e-06   20.9   0.0   529   579   215   266   203   272 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/14612at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/hmmer_output/rerun_results/14612at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/14612at314147.hmm /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/metaeuk_output/rerun_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:47:55 2023
+# [ok]

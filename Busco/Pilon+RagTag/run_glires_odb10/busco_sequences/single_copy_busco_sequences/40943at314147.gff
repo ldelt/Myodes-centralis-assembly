@@ -1,0 +1,10 @@
+contig_19145_pilon	MetaEuk	gene	320	2218	238	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319
+contig_19145_pilon	MetaEuk	mRNA	320	2218	238	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_mRNA;Parent=40943at314147_3|contig_19145_pilon|-|319
+contig_19145_pilon	MetaEuk	exon	2075	2218	93	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_exon_0;Parent=40943at314147_3|contig_19145_pilon|-|319_mRNA
+contig_19145_pilon	MetaEuk	CDS	2075	2218	93	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_CDS_0;Parent=40943at314147_3|contig_19145_pilon|-|319_exon_0
+contig_19145_pilon	MetaEuk	exon	1667	1741	47	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_exon_1;Parent=40943at314147_3|contig_19145_pilon|-|319_mRNA
+contig_19145_pilon	MetaEuk	CDS	1667	1732	47	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_CDS_1;Parent=40943at314147_3|contig_19145_pilon|-|319_exon_1
+contig_19145_pilon	MetaEuk	exon	1144	1206	46	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_exon_2;Parent=40943at314147_3|contig_19145_pilon|-|319_mRNA
+contig_19145_pilon	MetaEuk	CDS	1144	1206	46	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_CDS_2;Parent=40943at314147_3|contig_19145_pilon|-|319_exon_2
+contig_19145_pilon	MetaEuk	exon	320	424	67	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_exon_3;Parent=40943at314147_3|contig_19145_pilon|-|319_mRNA
+contig_19145_pilon	MetaEuk	CDS	320	424	67	-	.	Target_ID=40943at314147_3;TCS_ID=40943at314147_3|contig_19145_pilon|-|319_CDS_3;Parent=40943at314147_3|contig_19145_pilon|-|319_exon_3

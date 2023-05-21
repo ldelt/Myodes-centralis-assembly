@@ -1,0 +1,4 @@
+contig_52929_pilon	MetaEuk	gene	1083	1469	239	+	.	Target_ID=42088at314147_1;TCS_ID=42088at314147_1|contig_52929_pilon|+|1082
+contig_52929_pilon	MetaEuk	mRNA	1083	1469	239	+	.	Target_ID=42088at314147_1;TCS_ID=42088at314147_1|contig_52929_pilon|+|1082_mRNA;Parent=42088at314147_1|contig_52929_pilon|+|1082
+contig_52929_pilon	MetaEuk	exon	1083	1469	239	+	.	Target_ID=42088at314147_1;TCS_ID=42088at314147_1|contig_52929_pilon|+|1082_exon_0;Parent=42088at314147_1|contig_52929_pilon|+|1082_mRNA
+contig_52929_pilon	MetaEuk	CDS	1083	1469	239	+	.	Target_ID=42088at314147_1;TCS_ID=42088at314147_1|contig_52929_pilon|+|1082_CDS_0;Parent=42088at314147_1|contig_52929_pilon|+|1082_exon_0

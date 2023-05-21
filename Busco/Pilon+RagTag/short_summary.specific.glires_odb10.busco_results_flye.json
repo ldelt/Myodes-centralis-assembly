@@ -1,0 +1,62 @@
+{
+    "parameters": {
+        "out_path": "/home/bgerda/guppy_SUP",
+        "cpu": "30",
+        "force": "True",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/home/bgerda/guppy_SUP/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "update-data": "False",
+        "use_augustus": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "in": "/home/bgerda/guppy_SUP/ragtag_results_pf/ragtag.scaffold.fasta",
+        "out": "busco_results_flye",
+        "mode": "euk_genome_met",
+        "lineage_dataset": "/home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10",
+        "main_out": "/home/bgerda/guppy_SUP/busco_results_flye",
+        "lineage_results_dir": "run_glires_odb10",
+        "domain": "eukaryota",
+        "max_intron": "130000",
+        "max_seq_len": "160000",
+        "metaeuk_parameters": "",
+        "metaeuk_rerun_parameters": "",
+        "contig_break": "10",
+        "scaffold_composition": "False",
+        "gene_predictor": "metaeuk"
+    },
+    "lineage_dataset": {
+        "name": "glires_odb10",
+        "creation_date": "2021-02-19",
+        "number_of_buscos": "13798",
+        "number_of_species": "24"
+    },
+    "versions": {
+        "hmmsearch": 3.1,
+        "bbtools": "39.01",
+        "metaeuk": "6.a5d39d9",
+        "busco": "5.4.7"
+    },
+    "results": {
+        "one_line_summary": "C:2.0%[S:1.9%,D:0.1%],F:1.1%,M:96.9%,n:13798",
+        "Complete": 2.0,
+        "Single copy": 1.9,
+        "Multi copy": 0.1,
+        "Fragmented": 1.1,
+        "Missing": 96.9,
+        "n_markers": 13798,
+        "domain": "eukaryota",
+        "Number of scaffolds": "6237",
+        "Number of contigs": "83399",
+        "Total length": "213610518",
+        "Percent gaps": "3.612%",
+        "Scaffold N50": "1617441",
+        "Contigs N50": "2382"
+    }
+}

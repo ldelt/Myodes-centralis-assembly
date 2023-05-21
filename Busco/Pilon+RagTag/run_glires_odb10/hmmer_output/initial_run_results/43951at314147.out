@@ -1,0 +1,16 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NW_025965316.1_RagTag:607198-607320 -             41 43951at314147        -            105   5.8e-13   45.1   0.3   1   1   1.2e-15   5.8e-13   45.1   0.3    58    90     8    40     1    41 0.89 -
+NW_025965316.1_RagTag:605840-605998 -             53 43951at314147        -            105   2.4e-11   39.9   0.5   1   1   5.2e-14   2.5e-11   39.9   0.5    51    90     9    52     1    53 0.83 -
+NW_025965320.1_RagTag:594538-589615 -            223 43951at314147        -            105   2.9e-05   20.4   0.8   1   1   1.1e-07   5.1e-05   19.6   0.8    65   105   126   166   114   166 0.92 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/43951at314147.hmm
+# Target file:     /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/hmmer_output/initial_run_results/43951at314147.out --cpu 1 /home/bgerda/guppy_SUP/busco_downloads/lineages/glires_odb10/hmms/43951at314147.hmm /home/bgerda/guppy_SUP/busco_results_flye/run_glires_odb10/metaeuk_output/initial_results/ragtag.scaffold.fasta.modified.fas 
+# Current dir:     /home/bgerda/guppy_SUP
+# Date:            Sun May 21 17:17:08 2023
+# [ok]

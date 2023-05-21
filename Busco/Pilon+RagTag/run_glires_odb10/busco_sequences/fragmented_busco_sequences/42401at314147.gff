@@ -1,0 +1,4 @@
+contig_25188_pilon	MetaEuk	gene	304	504	129	-	.	Target_ID=42401at314147;TCS_ID=42401at314147|contig_25188_pilon|-|303
+contig_25188_pilon	MetaEuk	mRNA	304	504	129	-	.	Target_ID=42401at314147;TCS_ID=42401at314147|contig_25188_pilon|-|303_mRNA;Parent=42401at314147|contig_25188_pilon|-|303
+contig_25188_pilon	MetaEuk	exon	304	504	129	-	.	Target_ID=42401at314147;TCS_ID=42401at314147|contig_25188_pilon|-|303_exon_0;Parent=42401at314147|contig_25188_pilon|-|303_mRNA
+contig_25188_pilon	MetaEuk	CDS	304	504	129	-	.	Target_ID=42401at314147;TCS_ID=42401at314147|contig_25188_pilon|-|303_CDS_0;Parent=42401at314147|contig_25188_pilon|-|303_exon_0
