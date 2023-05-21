@@ -47,7 +47,7 @@ The lack of a suitable reference is one of the key problems faced by phylogeneti
 
 ## Results ans conclusion
 - A hybrid assembly of Myodes centralis was carried out. 
-- The total build length was 213.6Mb. Average coverage is 7. Contigs N50 is 2381. Scaffolds N50 is 1.6Mb. 
+- The total build length was 213.6Mb. Average coverage is 7. Contigs N50 is 2382. Scaffolds N50 is 1.6Mb. 
 - Results of quality assessment at Busco: C:2.0%[S:1.9%,D:0.1%],F:1.1%,M:96.9%,n:13798.
 - The polishing in the Racon and Nanopolish didn't seem to improve the assembly quality. 
 - The best results have been achieved using a draft flye assembly polished in Pilon and scaffolded in RagTag.
